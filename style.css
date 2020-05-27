@@ -1,0 +1,155 @@
+.border{border: 01px solid black;
+
+		}
+		.outer{
+			width: 1000px;
+			height: 840px;
+			margin: auto;
+
+		}
+		.header{
+			height: 200px;
+		}
+		
+		.header-left{width: 250px;
+			height: 200px;
+			float: left;			
+
+		}
+		.header-right{width:615px;
+			height: 150px;
+			float: left;
+			padding-top: 50px;
+			padding-left: 128px;
+		}
+		.menu-inner{width: 207px;
+			height: 50px;
+			float: left;
+			padding-left: 40px;
+
+		}
+		.menu-outer{height: 50px;
+
+		}
+		.Div3{width: 200px;
+			height: 247px;
+			float: left;
+
+		}
+		.Div3-right{width: 793px;
+			height: 250px;
+			float: left;
+
+		}
+		.Div3-outer{height: 250px;
+
+		}
+		.Div3-1inr{width: 200px;
+			height: 55px; 
+
+		}
+		.div1234{height: 60px;
+		}
+		.footer{width: 330px;
+			height: 230px;
+			float: left;
+
+		}
+		.outfooter{height: 230px;
+
+		}
+		.link{font-size: 20px;
+			color: #9C03FF;
+			text-decoration: none;
+			background-color:#F2F780 ;
+		}	
+		.link:hover{
+			background-color: #9C03FF;
+			color:#F2F780 ;
+		}
+		.link1{font-size: 40px;
+
+		}
+		.div12323{padding-bottom:  ;
+
+		}
+		.linkdecr{text-decoration: double underline;
+			color: violet;
+			background-color: green;
+
+		}
+		.linkdecr:hover{
+			color: green;
+			background-color: violet;
+		}
+		.www{text-decoration: double underline;
+			color:chartreuse;
+			background-color:tomato;
+
+		}
+		.www:hover{color:tomato;
+			background-color: chartreuse;
+
+		}
+		.bing{color:red;
+			background-color:orange;
+			text-decoration: double underline;
+
+
+		}
+		.bing:hover{color:orange;
+			background-color:red;
+
+
+		}
+		.yahoo{color:brown;
+			background-color:yellow;
+			text-decoration: double underline;
+
+		}
+		.yahoo:hover{color: yellow;
+			background-color:brown;
+
+
+		}
+		.shadow{text-shadow: 2px 2px #580AF5;
+
+		}
+		.color{background-color: #E57878;
+
+		}
+		.color:hover{background-color: #2DD157;
+
+		}
+		.color12{background-color: #0DFFCF;
+
+		}
+		.color12:hover{background-color: #D82CD5;
+
+		}
+		.bckgrclr{background-color: #4BEAAD;
+
+		}
+		.bckgrclr:hover{background-color: #D2A8FC;
+
+		}
+		.shanjan{background-color: #9900cc;
+			color: #D91C16;
+
+		}
+
+
+		.m123{background-image: url(images.jpg);
+
+		}
+		.icon-phone{width: 999px;
+			height: 40px;
+			color: white;
+			background-color: #696969;
+			font-size: 17px;
+		}
+		#heart{
+			color: #DC143C;
+
+		}
+		
